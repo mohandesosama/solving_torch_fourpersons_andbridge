@@ -122,8 +122,8 @@ def random_search():
                 # move the selected person to the other side together with the torch
                 move_one_person('Torch',sampled[0])
         
-#random_search()
-#print(states)
+random_search()
+print(states)
 ```
 
 ## Solution		
