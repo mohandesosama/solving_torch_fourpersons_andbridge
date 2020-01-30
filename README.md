@@ -133,6 +133,6 @@ print(states)
 * 13 minutes		B returns, taking 2 minutes	      C D
 * 15 minutes		A and B cross forward, taking 2 minutes	A B C D
 
-## practice
+## Excercise
 There are two solutions of this problem, can you run the program and find the other one. 
 if you find it contact me on mohandesosama@yahoo.com
