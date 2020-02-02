@@ -139,5 +139,5 @@ There are two solutions of this problem, can you run the program and find the ot
 if you find it contact me on mohandesosama@yahoo.com
 
 ## References
-* ![Drawing in Jupyter notebook](https://blog.jupyter.org/ipycanvas-a-python-canvas-for-jupyter-bbb51e4777f7)
+* [Drawing in Jupyter notebook](https://blog.jupyter.org/ipycanvas-a-python-canvas-for-jupyter-bbb51e4777f7)
 * Puzzle definition from wikipedia
