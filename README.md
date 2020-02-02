@@ -12,6 +12,9 @@ The solution is provided as heuristic based random search. The algorithm applies
 
 There is only one torch with them and the bridge cannot be crossed without the torch. There cannot be more than two persons on the bridge at any time, and when two people cross the bridge together, they must move at the slower person’s pace.
 
+## Formulation
+here we formulate the problem
+
 ## The code
 
 
